@@ -1,6 +1,6 @@
 ```
-Name : Gokul J
-Reg.No : 212222230038
+Name : JEEVAGOWTHAM S
+Reg.No : 212222230053
 ```
 
 # EXPERIMENT--03-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
@@ -246,7 +246,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![Screenshot 2024-09-23 083929](https://github.com/user-attachments/assets/20eef0e0-b484-4cd8-9f48-ae8d7471bed1)
+![image](https://github.com/user-attachments/assets/2611d3a8-cfbc-48af-a9c1-75442c1b0140)
+
 
 
  
