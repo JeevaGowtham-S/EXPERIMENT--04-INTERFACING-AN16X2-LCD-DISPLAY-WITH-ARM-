@@ -149,9 +149,9 @@ static void MX_GPIO_Init(void);
 void lcd_display()
 {
 	Lcd_cursor(&lcd,0,1);
-	Lcd_string(&lcd,"Gokul J\n");
+	Lcd_string(&lcd,"JEEVAGOWTHAM S\n");
 	Lcd_cursor(&lcd,1,1);
-	Lcd_string(&lcd,"212222230038");
+	Lcd_string(&lcd,"212222230053");
 
 	for(int x=0; x<100; x++)
 	{
